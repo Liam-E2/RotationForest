@@ -18,4 +18,4 @@ The Random Forest gets a bit confused in the middle due to the non-gridlike boun
 
 ![Rotation Forest Predictions](/mean0std1/Rot.png)
 
-Rotation Forest, while not perfect, "learns" the decision boundary much more accurately.
+Rotation Forest, while not perfect, learns the decision boundary much more accurately.
